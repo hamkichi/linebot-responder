@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: python /home/responder/app.py
+  web: python /app/app.py
